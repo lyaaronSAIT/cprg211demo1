@@ -1,0 +1,15 @@
+/workspaces/cprg211demo1/bin/Debug/net7.0/cprg211demo1
+/workspaces/cprg211demo1/bin/Debug/net7.0/cprg211demo1.deps.json
+/workspaces/cprg211demo1/bin/Debug/net7.0/cprg211demo1.runtimeconfig.json
+/workspaces/cprg211demo1/bin/Debug/net7.0/cprg211demo1.dll
+/workspaces/cprg211demo1/bin/Debug/net7.0/cprg211demo1.pdb
+/workspaces/cprg211demo1/obj/Debug/net7.0/cprg211demo1.csproj.AssemblyReference.cache
+/workspaces/cprg211demo1/obj/Debug/net7.0/cprg211demo1.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/cprg211demo1/obj/Debug/net7.0/cprg211demo1.AssemblyInfoInputs.cache
+/workspaces/cprg211demo1/obj/Debug/net7.0/cprg211demo1.AssemblyInfo.cs
+/workspaces/cprg211demo1/obj/Debug/net7.0/cprg211demo1.csproj.CoreCompileInputs.cache
+/workspaces/cprg211demo1/obj/Debug/net7.0/cprg211demo1.dll
+/workspaces/cprg211demo1/obj/Debug/net7.0/refint/cprg211demo1.dll
+/workspaces/cprg211demo1/obj/Debug/net7.0/cprg211demo1.pdb
+/workspaces/cprg211demo1/obj/Debug/net7.0/cprg211demo1.genruntimeconfig.cache
+/workspaces/cprg211demo1/obj/Debug/net7.0/ref/cprg211demo1.dll
